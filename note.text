@@ -1,0 +1,82 @@
+   data-textAlign="['inherit','inherit','inherit','inherit']"
+
+
+   {/* <!-- LAYER NR. 2 --> */}
+                                    <p className="tp-caption Restaurant-Description " id="slide-7-layer-13-2"
+                                        data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
+                                        data-y="['middle','middle','top','top']" data-voffset="['-100','-100','180','80']"
+                                        data-fontsize="['18','18','18','18']" data-lineheight="['30','30','30','30']"
+                                        data-fontweight="['400','400','400','400']" data-width="['480','400','480','400']"
+                                        data-height="auto" data-visibility="['on', 'on', 'off', 'off']" data-type="text"
+                                        data-responsive_offset="on"
+                                        data-frames='[{"delay":1500,"split":"words","splitdelay":0.05,"speed":1000,"split_direction":"forward","frame":"0","from":"x:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","split":"words","splitdelay":0.02,"speed":300,"split_direction":"backward","frame":"999","to":"auto:auto;fb:0;","ease":"Power3.easeInOut"}]'
+                                        data-textAlign="['left','left','center','center']"
+                                        style="z-index: 5; min-width: 480px; max-width: 480px; white-space: normal; letter-spacing: 0px;">
+                                        Appropriately provide access to front-end potentialities via synergistic
+                                        experiences. Competently maximize open-source imperatives after corporate systems.
+                                    </p>
+
+                                    {/* <!-- LAYER NR. 3 --> */}
+                                    <div className="tp-caption" id="slide-7-layer-12"
+                                        data-x="['right','right','middle','middle']" data-hoffset="['0','0','0','0']"
+                                        data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-70','-10']"
+                                        data-width="auto" data-height="auto" data-whitespace="normal" data-type="image"
+                                        data-responsive_offset="on"
+                                        data-frames='[{"delay":1500,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                        data-textAlign="['inherit','inherit','inherit','inherit']"
+                                        data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
+                                        data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;">
+                                        <div className="rs-looped rs-rotate" data-easing="Linear.easeNone" data-startdeg="0"
+                                            data-enddeg="180" data-speed="40" data-origin="50% 50%"><img
+                                                src="demos/recipes/images/slider/dummy.png" alt="Image"
+                                                data-ww="['530px','400px','200px','200px']"
+                                                data-hh="['530px','400px','200px','200px']"
+                                                data-lazyload="demos/recipes/images/slider/1/1.png" data-no-retina /> </div>
+                                    </div>
+
+                                    {/* <!-- LAYER NR. 6 --> */}
+                                    <div className="tp-caption  " id="slide-7-layer-20"
+                                        data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
+                                        data-y="['middle','middle','middle','middle']" data-voffset="['0','0','90','130']"
+                                        data-width="auto" data-fontsize="['20','18','20','20']" data-height="auto"
+                                        data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+                                        data-frames='[{"delay":2600,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                        data-textAlign="['inherit','inherit','inherit','inherit']"
+                                        data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
+                                        data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                        style="z-index: 14; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;">
+                                        <span className="me-3"><i className="bi-star-fill"></i> <i className="bi-star-fill"></i> <i
+                                            className="bi-star-fill"></i> <i className="bi-star-fill"></i> <i
+                                                className="bi-star"></i></span> <strong>4.0 </strong><span
+                                                    style="font-weight: 300">(2,123 Reviews)</span>
+                                    </div>
+
+
+                                    
+                                    <div className="tp-caption slider-features tp-resizeme" id="slide-7-layer-19"
+                                        data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
+                                        data-y="['middle','middle','middle','middle']"
+                                        data-voffset="['100','100','210','230']" data-width="auto" data-height="auto"
+                                        data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+                                        data-frames='[{"delay":2500,"split":"words","splitdelay":0.05,"speed":1000,"split_direction":"forward","frame":"0","from":"x:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","split":"words","splitdelay":0.02,"speed":300,"split_direction":"backward","frame":"999","to":"auto:auto;fb:0;","ease":"Power3.easeInOut"}]'
+                                        data-textAlign="['inherit','inherit','inherit','inherit']"
+                                        data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
+                                        data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;">
+                                        <ul className="list-unstyled dark">
+                                            <li className="d-inline-block">
+                                                <img src="demos/recipes/images/icons/timer.svg" alt="Timer" width="30" />
+                                                <h4>40 Mins</h4>
+                                            </li>
+
+                                            <li className="d-inline-block">
+                                                <img src="demos/recipes/images/icons/ingredients.svg" alt="ingredients"
+                                                    width="30" />
+                                                <h4>9 Ingredients</h4>
+                                            </li>
+
+                                            <li className="d-inline-block">
+                                                <img src="demos/recipes/images/icons/kcal.svg" alt="kcal" width="30" />
+                                                <h4>600 Kcal</h4>
+                                            </li>
+                                        </ul>
+                                    </div>
